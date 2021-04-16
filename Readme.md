@@ -25,3 +25,7 @@ Major points are topics that require and explanation, or are a compelling reason
 Here, you'll want to give a brief summary and explain why either the pros outweigh the cons, or the cons outweigh the pros.
 
 Make sure to leave a final "**Recommended**" or "**Not Recommended**" at the bottom of the document.
+
+#### Sources (Heading 4)
+
+Every document requires objective sources.  Please use in-line citation where possible.
