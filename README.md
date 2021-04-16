@@ -4,6 +4,7 @@
 Link to the official download page would go here, if it's one that should be recommended.
 
 Description of the distribution.
+
 <br />
 
 ## PROS (Heading 2)
@@ -14,6 +15,7 @@ Here, you'll want to discuss the good things about the distribution.  Many pros 
 - Points
 
 Major points are topics that require and explanation, or are a compelling reason why this matters.
+
 <br />
 
 ## CONS (Heading 2)
@@ -24,6 +26,7 @@ Here, you'll want to discuss the bad things about the distribution.  Sometimes, 
 - Points
 
 Major points are topics that require and explanation, or are a compelling reason why this matters.
+
 <br />
 
 ## Verdict (Heading 2)
@@ -31,7 +34,7 @@ Major points are topics that require and explanation, or are a compelling reason
 Here, you'll want to give a brief summary and explain why either the pros outweigh the cons, or the cons outweigh the pros.
 
 Make sure to leave a final "**Recommended**" or "**Not Recommended**" at the bottom of the document.
-<br />
+
 <br />
 
 #### Sources (Heading 4)
